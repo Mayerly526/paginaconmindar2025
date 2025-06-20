@@ -4,8 +4,7 @@ Este proyecto es una **experiencia interactiva con cámara** desarrollada como p
 
 ## 🌐 Demo en vivo
 
-[🔗 Ver el sitio](https://tu-usuario.github.io/tu-repo/)  
-> Reemplazá con el link real si publicás en GitHub Pages
+[🔗 Ver el sitio](https://mayerly526.github.io/paginaconmindar2025.github.io/)
 
 ## 🧩 Funcionalidad principal
 
