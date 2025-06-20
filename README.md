@@ -1,25 +1,25 @@
-# Página de Realidad Aumentada – Campaña de K-Pop Comeback
+# 🎤 Página de Realidad Aumentada – Selección de Personaje K-Pop
 
-🎶 Una página web interactiva con **realidad aumentada** diseñada para la **campaña de lanzamiento de un grupo de K-Pop** en su esperado *comeback*. Esta experiencia web permite a los fans interactuar con contenido exclusivo en tiempo real.
+Este proyecto es una **experiencia interactiva con cámara** desarrollada como parte de una **campaña de lanzamiento para un grupo de K-Pop**. El usuario puede activar la cámara y seleccionar entre distintos personajes del grupo, fusionando tecnología con creatividad en una activación para fans.
 
 ## 🌐 Demo en vivo
 
 [🔗 Ver el sitio](https://tu-usuario.github.io/tu-repo/)  
-<!-- Reemplazá con tu link real de GitHub Pages -->
+> Reemplazá con el link real si publicás en GitHub Pages
 
-## ✨ Características
+## 🧩 Funcionalidad principal
 
-- Interfaz visual moderna y responsiva
-- Integración de elementos de realidad aumentada con JavaScript
-- Diseñada para entornos móviles y de escritorio
-- Ideal para activaciones de marca y eventos digitales
+- Muestra una **pantalla de bienvenida** donde el usuario activa la experiencia.
+- Se accede a la **cámara en tiempo real** mediante HTML5.
+- Se muestra un personaje sobre la cámara que **cambia dinámicamente** con un botón.
+- Ideal para usar en móviles y generar engagement en campañas.
 
-## 💻 Tecnologías utilizadas
+## 🛠 Tecnologías utilizadas
 
 - HTML5
 - CSS3
 - JavaScript (vanilla)
-- WebAR / AR.js (si estás usando alguna librería de RA)
+- API de cámara del navegador
 
 ## 📂 Estructura del proyecto
 
